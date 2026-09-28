@@ -1,0 +1,8 @@
+name = "Luda"
+group = "Б06-607"
+age = 17
+print ("=============")
+print (f"Name: {name}")
+print (f"Group: {group}")
+print (f"Age: {age}")
+print ("=============")
